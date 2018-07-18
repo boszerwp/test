@@ -42,3 +42,5 @@
 
     
     - name: TestNaja
+      apt:
+        name: OKja
